@@ -1,0 +1,2 @@
+--Python 3.6+
+--An active Twilio account (can be the free trial version)

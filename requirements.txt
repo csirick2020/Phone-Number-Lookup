@@ -1,2 +1,3 @@
 --Python 3.6+
+--The Twilio Python package (use 'pip install twilio')
 --An active Twilio account (can be the free trial version)

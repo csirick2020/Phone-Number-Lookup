@@ -1,9 +1,23 @@
 <div align="center">
 
-## **Phone Number Lookup**
+# 📞 **Phone Number Lookup**
+
+A simple Twilio-powered utility for looking up U.S. phone number details.
 
 </div>
 
-This is a very simple implementation of [Twilio](https://www.twilio.com/)'s [Lookup API](https://www.twilio.com/docs/lookup/v2-api) that allows you to find details about U.S. phone numbers.  
+---
 
-*You will need to have an active Twilio account (the free version is fine until you run out of trial credits).
+## ✨ Overview
+
+This project is a lightweight wrapper around [Twilio](https://www.twilio.com/)'s [Lookup API (v2)](https://www.twilio.com/docs/lookup/v2-api).  
+It allows you to fetch metadata such as carrier information and line type for any valid U.S. phone number.
+
+---
+
+## 🔑 Requirements
+
+- An active [Twilio account](https://www.twilio.com/try-twilio)  
+  → The **free trial** works until your credits run out.
+- A valid Twilio **Account SID** and **Auth Token**
+- Python 3.6+

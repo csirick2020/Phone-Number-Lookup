@@ -1,2 +1,2 @@
-Python 3.6+
-twilio (module)
+# Requires Python 3.6+
+twilio
